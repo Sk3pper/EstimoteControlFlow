@@ -1,2 +1,2 @@
 # EstimoteControlFlow
-see this url: http://beaconcontrolflow.altervista.org/AndreaBissoli_presentation.pdf
+see this url: http://www.slideshare.net/AndreaBissoli/beacon-and-its-protocols
